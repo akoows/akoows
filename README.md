@@ -1,4 +1,4 @@
-# nykzxx developer
+# akoo developer
 > programming is my hobby 
 ## User of
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
@@ -11,4 +11,4 @@
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 
 ## Github Performance
-[![card](https://github-readme-stats.vercel.app/api?username=nykzxx&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=akoows&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
